@@ -1,7 +1,7 @@
 package pack;
 import java.util.Arrays;
 
-public class Usman_Array_Assignment3 {
+public class Usman_Arrays_Assignment3 {
 
 	public static void main(String[] args) {
         int[] array = {1, 2, 2, 3, 4, 4, 4, 5, 5};

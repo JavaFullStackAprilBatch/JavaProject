@@ -6,7 +6,7 @@ public class Arguments {
 	static int t ; 
 	
 	public int add(int a , int b, int t) {
-		 int z = 50;  // local variables
+		// int z = 50;  // local variables
 		int sum = a+b+t;
 		return sum;
   		

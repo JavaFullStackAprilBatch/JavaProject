@@ -9,7 +9,7 @@ public class Client {
 		
 	   
 	Logic l1 = new Logic();
-	int b = l1.add(30,10);
+	//int b = l1.add(30,10);
 	
 	
     	System.out.println(l1.add(30,10));
