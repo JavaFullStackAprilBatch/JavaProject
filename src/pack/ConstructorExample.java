@@ -36,8 +36,8 @@ public class ConstructorExample {
     public static void main(String[] args) {
         ConstructorExample m = new ConstructorExample(50,30,"saritha");
         ConstructorExample m2 = new ConstructorExample(70,90,"abc");
-        ConstructorExample m3 = new ConstructorExample();
-        ConstructorExample m4 = new ConstructorExample(5);
+       // ConstructorExample m3 = new ConstructorExample();
+       // ConstructorExample m4 = new ConstructorExample(5);
         int z = m.add();
         int x = m2.add();
         System.out.println("sum is "+z);

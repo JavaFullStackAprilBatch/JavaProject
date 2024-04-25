@@ -27,7 +27,6 @@ public class DataTypesExample {
 		  System.out.println("double value "+d);
 		
 		  Character c ='9';
-		  String s1 = "aii";
 		  System.out.println(c);
 	}
 

@@ -2,12 +2,12 @@ package pack;
 
 public class ArrayExample {
 	public static void main(String a[]) {
-		int k = 20;
-		int j;
-		j = 80;
-		int u = 90; 
-		char c = 's';
-		double d = 5.6;
+//		int k = 20;
+//		int j;
+//		j = 80;
+//		int u = 90; 
+//		char c = 's';
+//		double d = 5.6;
 		
 
 		
