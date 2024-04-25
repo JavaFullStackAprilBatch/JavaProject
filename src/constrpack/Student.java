@@ -8,9 +8,9 @@ public class Student {
 	
 	//Default Constructor
 	Student(){
-		this.name = "Ajitha";
-		this.age = 30;
-		this.dob = "13-Aug-1998";
+		this.name = "Unknown";
+		this.age = 0;
+		this.dob = "xx-xx-xxxx";
 	}
 	
 	//Parameterised Constructor
