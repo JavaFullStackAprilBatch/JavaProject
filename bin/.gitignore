@@ -1,4 +1,6 @@
+/bin/
+/.gitignore
+/arrays/
+/constructors/
 /pack/
-/Arrays/
-/AddElements.class
-/.DS_Store
+/src/
