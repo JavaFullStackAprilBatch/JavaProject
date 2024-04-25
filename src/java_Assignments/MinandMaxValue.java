@@ -1,4 +1,4 @@
-package pack;
+package java_Assignments;
 
 public class MinandMaxValue {
 
