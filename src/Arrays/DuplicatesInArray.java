@@ -21,6 +21,7 @@ public class DuplicatesInArray {
 		for(int n=0;n<=j;n++)
 		{
 			System.out.print(arr[n] + " " );
+			
 		}
 	}
 }
