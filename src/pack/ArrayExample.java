@@ -25,13 +25,15 @@ public class ArrayExample {
 		{
 			sub[i] = z[i];
 			System.out.println(sub[i]);
+			
 			total = total+sub[i];
 			
 		}
 		System.out.println("Total values "+total);
 
 		
-	
+			
+			
 		
 	
 		
