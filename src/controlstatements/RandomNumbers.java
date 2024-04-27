@@ -8,11 +8,12 @@ public class RandomNumbers {
 		
 		
 	Random random = new Random();
-	int s=random.nextInt(10);
-	System.out.println(s);
+	
+	//int s=random.nextInt(10);
+	//System.out.println(s);
 	
 	
-	/*int number=1;
+	int number=1;
 	
 	 while(number<10)
 	 {
@@ -20,7 +21,7 @@ public class RandomNumbers {
 		 System.out.println(myrandomnumber);
 		 number++;
 		 
-	 }*/
+	 }
 
 	}
 
