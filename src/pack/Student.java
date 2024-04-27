@@ -1,8 +1,8 @@
 package pack;
 
 public class Student {
-	String x = "Ben";
-	String y = "Chen";
+	String x;
+	String y;
 	
 	public Student() {
 		this.x = "Unknown";
