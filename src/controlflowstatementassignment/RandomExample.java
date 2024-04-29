@@ -11,11 +11,33 @@ public class RandomExample {
 
 
         Random random = new Random();
+
+
         int rand = 0;
-        while (true) {
-            rand = random.nextInt(11);
-            if(rand!=5 && rand != 0) break;
+        while (true) {          //using while loop
+            rand = random.nextInt(10);
+
+            if (rand != 5) {
+
+                System.out.println(rand);
+            } else if (rand == 5) {
+                break;
+            }
         }
-        System.out.println(rand);
+
+        for(int i=0;i>-1;i++){   //using for loop
+            rand = random.nextInt(10);
+            if(rand!=5) {
+                System.out.println(rand);
+            }
+            else if(rand ==5) {
+                break;
+            }
+
+
+
+            }
+
     }
 }
+
