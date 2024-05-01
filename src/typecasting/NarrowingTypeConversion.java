@@ -130,7 +130,7 @@ public class NarrowingTypeConversion {
 		System.out.println("Enter a long value:");
 		long l8 =sc.nextLong();
 	    double d3 =  l8;
-		System.out.println("after converting long value to double value  :" +l8);
+		System.out.println("after converting long value to double value  :" +d3);
 		
 		
 		//converting double to other Datatypes
