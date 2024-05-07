@@ -16,4 +16,3 @@ public class TypeCastingEx {
     }
 }
 
-3
