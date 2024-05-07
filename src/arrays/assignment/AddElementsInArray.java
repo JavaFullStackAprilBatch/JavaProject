@@ -2,6 +2,7 @@ package arrays.assignment;
 
 public class AddElementsInArray {
     public static void main(String[] args) {
+
         int a[] = new int[11];
         for (int i = 0; i < a.length - 1; i++) {
             a[i] = i + 1;
