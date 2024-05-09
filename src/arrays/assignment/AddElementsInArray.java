@@ -9,8 +9,8 @@ public class AddElementsInArray {
 
         }
         a[a.length - 1] = 50;
-        for (int i = 0; i < a.length; i++) {
-            System.out.print(a[i] + " ");
+        for (int j : a) {
+            System.out.print(j + " ");
         }
     }
 }
