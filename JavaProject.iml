@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+<<<<<<< HEAD
   <component name="NewModuleRootManager" inherit-compiler-output="true">
+=======
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+>>>>>>> 10b9e6cbc97c800b2d8568fee21ca23797a5d0f8
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
