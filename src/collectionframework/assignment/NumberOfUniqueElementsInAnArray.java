@@ -12,7 +12,8 @@ public class NumberOfUniqueElementsInAnArray {
                 hset.add(element);
 
             }
-            System.out.println(hset.size());
+            System.out.println(hset);
+            System.out.println("Number of unique elements in an array : " +hset.size());
         } catch (ArrayIndexOutOfBoundsException e) {
             e.getStackTrace();
         }
