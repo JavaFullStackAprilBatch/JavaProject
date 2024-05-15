@@ -1,4 +1,4 @@
-package com.bhuvama.workspace;
+package com.bhuvama.workspace.employee;
 
 public class Developer extends Employee {
     Double basesalary= 3000.0;

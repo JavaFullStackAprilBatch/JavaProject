@@ -1,4 +1,4 @@
-package com.bhuvama.workspace;
+package com.bhuvama.workspace.employee;
 
 public class Tester extends Employee{
     public Tester(String name, int id, double hourlyrate, int hoursworked) {

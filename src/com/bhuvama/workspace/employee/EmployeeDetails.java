@@ -1,6 +1,5 @@
-package com.bhuvama.workspace;
+package com.bhuvama.workspace.employee;
 
-import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class EmployeeDetails {

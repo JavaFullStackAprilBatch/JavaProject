@@ -1,4 +1,4 @@
-package com.bhuvama.workspace;
+package com.bhuvama.workspace.employee;
 
 import java.util.ArrayList;
 import java.util.Date;
