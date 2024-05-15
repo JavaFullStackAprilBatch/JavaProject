@@ -1,4 +1,4 @@
-package javaproj.assignment.interfaceex;
+//package javaproj.assignment.interfacex;
 
 public class CashPayment implements PaymentMethod{
 	String customerName;

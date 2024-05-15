@@ -1,4 +1,4 @@
-package javaproj.assignment.inheritance;
+//package javaproj.assignment.inheritance;
 
 public class Employee {
 	String ename;

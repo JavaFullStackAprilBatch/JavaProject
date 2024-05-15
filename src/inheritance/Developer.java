@@ -1,4 +1,4 @@
-package javaproj.assignment.inheritance;
+//package javaproj.assignment.inheritance;
 
 public class Developer extends Employee {
 	public Developer(String n, int i, double s) {
